@@ -56,5 +56,5 @@ Icon: icon.ico
 
 ## 📸 Screenshots
 
-![Gameplay]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eda9498-4d68-4e18-9c97-73525ec7a7b7" />
+![Gameplay]<img width="980" height="616" alt="image" src="https://github.com/user-attachments/assets/0ecabc2f-1ce1-4087-8114-e1b84dc6e1df" />
 
